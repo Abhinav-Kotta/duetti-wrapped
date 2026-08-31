@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Duetti Market Replay",
+    "slug": "duetti-market-replay",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F5F1E8",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#3157F6",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "Duetti Market Replay",
+      "themeColor": "#3157F6",
+      "backgroundColor": "#151515"
+    }
+  }
+}
